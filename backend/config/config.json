@@ -1,0 +1,10 @@
+{
+    "development": {
+      "username": "neelus",
+      "password": "1234",
+      "database": "moengage",
+      "host": "localhost",
+      "dialect": "mysql"
+    }
+  }
+  
